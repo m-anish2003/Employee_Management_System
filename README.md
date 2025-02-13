@@ -56,7 +56,7 @@ Open http://localhost:5173 in your browser
 ![Login Page](https://github.com/m-anish2003/Employee_Management_System/blob/master/Project%20Visuals/Screenshot%202025-02-11%20212631.png)")
 
 ### 🔹 Dashboard
-![Dashboard]("C:\Users\MANISH\OneDrive\รูปภาพ\Screenshots\WhatsApp Image 2025-02-12 at 21.54.15_8206a5bc.jpg")
+![Dashboard](https://github.com/m-anish2003/Employee_Management_System/blob/master/Project%20Visuals/WhatsApp%20Image%202025-02-12%20at%2021.54.15_8206a5bc.jpg))
 
 
 
